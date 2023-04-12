@@ -1,0 +1,1 @@
+Repositório criado para praticar a linguagem de programação C e o uso do Git e GitHub.
